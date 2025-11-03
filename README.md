@@ -38,8 +38,6 @@ I’m a **Full-Stack Software Developer** passionate about building clean, scala
 
 💡 I enjoy turning complex requirements into elegant systems, following **SOLID**, **TDD/BDD**, and **Clean Architecture** principles.  
 🌍 Based in the **UK**
-<br>
-
 🧠 Also, I use Arch BTW 😉  
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat)](https://archlinux.org/)
 
