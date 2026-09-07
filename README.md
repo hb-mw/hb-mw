@@ -1,90 +1,69 @@
-<!--[![Mahmoud Wizzo profile views](https://u8views.com/api/v1/github/profiles/48382487/views/day-week-month-total-count.svg)](https://u8views.com/github/hb-mw) -->
-
-<!--
-**hb-mw/hb-mw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Profile README for github.com/hb-mw -->
-<!-- Theme: Dark | Author: Mahmoud Wizzo -->
 
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#58a6ff;">Mahmoud Wizzo</span>  
-### 💻 Full-Stack .NET Developer · Clean Architecture Enthusiast · TDD/BDD Practitioner
+# 👋 Hi, I'm Martin Wizzo
 
+### Senior Software Engineer · .NET / C# · Backend, Distributed Systems & Azure
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-martinwizzo-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/martinwizzo/)
+[![Email](https://img.shields.io/badge/Email-martin.mwizzo%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:martin.mwizzo@gmail.com)
+[![MTA](https://img.shields.io/badge/Founder-mta--academy.co.uk-2EA043?style=flat)](https://mta-academy.co.uk)
 [![GitHub followers](https://img.shields.io/github/followers/hb-mw?label=Followers&style=social)](https://github.com/hb-mw)
-[![Profile Views](https://komarev.com/ghpvc/?username=hb-mw&label=Profile+Views)](https://github.com/hb-mw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/mahmoud-wizzo-44000a164/)
-[![Email](https://img.shields.io/badge/Email-mahmoud.wizzo%40proton.me-blue?logo=protonmail&style=flat)](mailto:mahmoud.wizzo@proton.me)
 
 </div>
 
 ---
 
-## 🧭 About Me
-I’m a **Full-Stack Software Developer** passionate about building clean, scalable, and maintainable applications using  
-**C# / . NET 9**, **Clean Architecture**, and **modern front-end frameworks** like **Blazor** and **Angular**.  
+## 🧭 About me
 
-💡 I enjoy turning complex requirements into elegant systems, following **SOLID**, **TDD/BDD**, and **Clean Architecture** principles.  
-🌍 Based in the **UK**   
-🧠 Also, I use **Arch** BTW 😉  
+- 🏢 **Senior Software Engineer at BrightHR** (Manchester, UK) — building the payroll engine: HMRC RTI and NEST pension integrations, event-driven microservices on Azure (Wolverine, Cosmos DB, Container Apps, Azure Functions).
+- 🎓 **Founder of [Manchester Training Academy](https://mta-academy.co.uk)** — a bilingual English/Arabic e-learning platform I built end to end (Next.js/Node, C#/.NET, Python, AI integration, PostgreSQL, Redis, Docker, Northflank).
+- 🧱 I care about **Clean Architecture, DDD, CQRS and TDD/BDD** — applied pragmatically, not religiously.
+- 🔐 Background in **penetration testing and security research**, so security gets designed in rather than bolted on.
+- 🤝 I mentor junior and mid-level developers and enjoy working across Product, UX and QA.
+- 🐧 Yes, I use Arch, btw.
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 | Category | Technologies |
-|-----------|---------------|
-| **Languages** | C#, TypeScript, JavaScript, Python, SQL |
-| **Frameworks & Libraries** | .NET 9, ASP.NET Core, Blazor WASM, Angular, React |
-| **Databases & Tools** | MSSQL, EF Core, Redis, Docker, RabbitMQ, GitHub Actions, Kubernetes|
-| **Architecture & Principles** | Clean Architecture, Microservices, SOLID, TDD, BDD (SpecFlow) |
-| **Other Interests** | DevOps Automation, IoT Integration, AI Agents |
+|---|---|
+| **Languages** | C#, SQL, TypeScript/JavaScript, Python |
+| **.NET** | .NET 8/9, ASP.NET Core, EF Core, Azure Functions, Wolverine, MassTransit, RabbitMQ, gRPC, GraphQL |
+| **Architecture** | Clean Architecture, DDD, CQRS, Microservices, Event-driven systems, API-first design |
+| **Cloud & DevOps** | Azure (Container Apps, Functions, Cosmos DB, Key Vault), Azure DevOps, Docker, Kubernetes, GitHub Actions, Northflank |
+| **Data** | SQL Server, PostgreSQL, Cosmos DB, Redis, MongoDB, InfluxDB |
+| **Testing** | xUnit, NUnit, SpecFlow (BDD), TDD |
+| **Front-end** | Next.js, React, Angular, Blazor |
+| **Security** | Penetration testing, secure coding, threat modelling |
 
 ---
 
-## 🚀 Something you can look at.
-- 🛒 [**Teka**](https://github.com/hb-mw/Teka) — a simple e-commerce with clean architecture, .Net9/Redis/RabbitMq/ELK and more.  
-- 🧾 [**Timesheet App**](https://github.com/hb-mw/timesheet) — Simple Timesheet with Clean Architecture, Blazor UI & Docker CI/CD  
-- 🛒 [**Checkout Kata**](https://github.com/hb-mw/kata-checkout) — TDD implementation of pricing rules using Strategy Pattern (.NET 9 + NUnit).
+## 🚀 Things you can look at
+
+- 🎓 [**Manchester Training Academy**](https://mta-academy.co.uk) — live bilingual English/Arabic e-learning platform I designed, built and run: Next.js/Node front end, C#/.NET and Python services, AI-assisted content, PostgreSQL, Redis, Dockerised with CI/CD on Northflank.
+- 🛒 [**Teka**](https://github.com/hb-mw/Teka) — e-commerce built on Clean Architecture with .NET 9, Redis, RabbitMQ and ELK.
+- 🧾 [**Timesheet App**](https://github.com/hb-mw/timesheet) — Clean Architecture, Blazor UI and Docker-based CI/CD.
+- ✅ [**Checkout Kata**](https://github.com/hb-mw/kata-checkout) — TDD implementation of pricing rules with the Strategy pattern (.NET 9 + NUnit).
+
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hb-mw&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hb-mw&layout=compact&theme=github_dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hb-mw&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hb-mw&theme=github-dark-blue&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Connect
 
-📫 **Email:** [mahmoud.wizzo@proton.me](mailto:mahmoud.wizzo@proton.me)  
-💼 **LinkedIn:** [linkedin.com/in/mahmoud-wizzo-44000a164](https://www.linkedin.com/in/mahmoud-wizzo-44000a164/)  
-🌐 **GitHub:** [github.com/hb-mw](https://github.com/hb-mw)
+📫 [martin.mwizzo@gmail.com](mailto:martin.mwizzo@gmail.com) · 💼 [linkedin.com/in/martinwizzo](https://www.linkedin.com/in/martinwizzo/) · 🌐 [mta-academy.co.uk](https://mta-academy.co.uk)
 
-> I’m always open to collaborations, mentorship, and new challenges — especially around **.NET, Blazor, and scalable software design**.
-
----
-
-<div align="center">
-
-> 🧩 “Clean code is not written by following rules — it’s crafted through understanding.”  
-> — Uncle Bob 👨‍💻
-
-</div>
-
+> Open to conversations about .NET, distributed systems, security and mentoring.
