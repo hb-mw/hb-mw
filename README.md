@@ -43,7 +43,7 @@
 
 ## 🚀 Things you can look at
 
-- 🎓 [**Manchester Training Academy**](https://mta-academy.co.uk) — live bilingual English/Arabic e-learning platform I designed, built and run: Next.js/Node front end, C#/.NET and Python services, AI-assisted content, PostgreSQL, Redis, Dockerised with CI/CD on Northflank.
+- 🎓 [**Manchester Training Academy**](https://mta-academy.co.uk) — a live, bilingual English/Arabic online academy I designed, built and run. A full teaching and delivery platform built in-house: live virtual classrooms, recorded lessons, structured courses and diploma programmes, examinations and assessments, certificates, and student/tutor management, serving learners in the UK and the Middle East. Stack: Next.js/Node front end, C#/.NET and Python services, AI-assisted content, PostgreSQL, Redis, Dockerised with CI/CD on Northflank.
 - 🛒 [**Teka**](https://github.com/hb-mw/Teka) — e-commerce built on Clean Architecture with .NET 9, Redis, RabbitMQ and ELK.
 - 🧾 [**Timesheet App**](https://github.com/hb-mw/timesheet) — Clean Architecture, Blazor UI and Docker-based CI/CD.
 - ✅ [**Checkout Kata**](https://github.com/hb-mw/kata-checkout) — TDD implementation of pricing rules with the Strategy pattern (.NET 9 + NUnit).
