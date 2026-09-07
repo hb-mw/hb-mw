@@ -17,7 +17,7 @@
 
 ## 🧭 About me
 
-- 🏢 **Senior Software Engineer at BrightHR** (Manchester, UK) — building the payroll engine: HMRC RTI and NEST pension integrations, event-driven microservices on Azure (Wolverine, Cosmos DB, Container Apps, Azure Functions).
+- 🏢 **Senior Software Engineer at BrightHR** (Manchester, UK) — backend work on event-driven, integration-heavy services with C#/.NET on Azure (Wolverine, Cosmos DB, Container Apps, Azure Functions).
 - 🎓 **Founder of [Manchester Training Academy](https://mta-academy.co.uk)** — a bilingual English/Arabic e-learning platform I built end to end (Next.js/Node, C#/.NET, Python, AI integration, PostgreSQL, Redis, Docker, Northflank).
 - 🧱 I care about **Clean Architecture, DDD, CQRS and TDD/BDD** — applied pragmatically, not religiously.
 - 🔐 Background in **penetration testing and security research**, so security gets designed in rather than bolted on.
